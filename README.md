@@ -5,7 +5,9 @@ Com base nos conhecimentos obtidos ao longo do semestre, implemente um programa 
   1.1. Regras Gerais do Sistema
   
   1.1.1. Os painéis devem utilizar o MigLayout como gerenciador de layout, exceto a inicial e o painel de login.
+  
   1.1.2. Os painéis devem ser organizados internamente no padrão MVC.
+  
   1.1.3. Os painéis devem ter um botão “Salvar” e um “Cancelar”, exceto a inicial (o painel de login e o painel de medicamentos).
   
     ● O botão Salvar vai validar e gravar as informações do painel no banco de dados.
@@ -13,4 +15,5 @@ Com base nos conhecimentos obtidos ao longo do semestre, implemente um programa 
     ● Para este trabalho, não serão exigidas funcionalidades de Atualização e nem Exclusão no banco de dados, exceto para o painel de medicamentos que deve possuir todas operações CRUD.
   
   1.1.4. Cada tela exigida neste sistema hospitalar terá regras específicas que devem ser atendidas em sua totalidade.
+  
   1.1.5. Todas as mensagens de crítica quanto ao preenchimento de campos podem ser emitidas no console da aplicação (não é preciso utilizar caixas de diálogo, nem criar labels específicos para essa finalidade).
