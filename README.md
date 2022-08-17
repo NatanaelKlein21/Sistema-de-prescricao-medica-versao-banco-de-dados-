@@ -1,10 +1,6 @@
 # Sistema-de-prescricao-medica-versao-banco-de-dados-
 
-Com base nos conhecimentos obtidos ao longo do semestre, implemente um programa em
-Java para simular uma parte de um sistema hospitalar responsável pela prescrição de
-medicamentos aos pacientes previamente internados. Esse sistema deverá seguir algumas regras
-gerais (de interface, por exemplo) e algumas regras específicas (regras estabelecidas pelo
-negócio). Nos tópicos a seguir, essas regras gerais e específicas serão melhor detalhadas.
+Com base nos conhecimentos obtidos ao longo do semestre, implemente um programa em Java para simular uma parte de um sistema hospitalar responsável pela prescrição de medicamentos aos pacientes previamente internados. Esse sistema deverá seguir algumas regras gerais (de interface, por exemplo) e algumas regras específicas (regras estabelecidas pelo negócio). Nos tópicos a seguir, essas regras gerais e específicas serão melhor detalhadas.
 
   1.1. Regras Gerais do Sistema
   
